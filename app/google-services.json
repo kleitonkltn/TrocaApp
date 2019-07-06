@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "224903432893",
+    "firebase_url": "https://trocadilhoapp.firebaseio.com",
+    "project_id": "trocadilhoapp",
+    "storage_bucket": "trocadilhoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224903432893:android:425a3ea95f885884",
+        "android_client_info": {
+          "package_name": "com.example.hj.trocaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224903432893-7gi83co2orbokoqv7i8opvkdk4v95t19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hj.trocaapp",
+            "certificate_hash": "62bf093ada3dea924f8b4d2f44dde5be687ee430"
+          }
+        },
+        {
+          "client_id": "224903432893-ohhejlt3sc28nkafldo6tn60vikooqta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOuhG5tSKVzqNxSMrcY7NcA0jEnQRUd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224903432893-ohhejlt3sc28nkafldo6tn60vikooqta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224903432893:android:5ece099cd22c46fc",
+        "android_client_info": {
+          "package_name": "com.kleiton.nvidia.trocadilhoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224903432893-c99n7cpvpert841mi75vqre3cn9co94e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kleiton.nvidia.trocadilhoapp",
+            "certificate_hash": "faa162a7a27ce4a0841560fdf8aff6ba059a4cd5"
+          }
+        },
+        {
+          "client_id": "224903432893-ohhejlt3sc28nkafldo6tn60vikooqta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOuhG5tSKVzqNxSMrcY7NcA0jEnQRUd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224903432893-ohhejlt3sc28nkafldo6tn60vikooqta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

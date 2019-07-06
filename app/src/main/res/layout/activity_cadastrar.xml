@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".CadastrarActivity">
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pergunta"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+
+    <EditText
+
+        android:id="@+id/pergunta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:width="200px" />
+
+    <TextView
+
+        android:layout_marginTop="30px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Resposta"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/resposta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:width="200px" />
+
+
+    <Button
+        android:layout_marginTop="60px"
+        android:id="@+id/bt1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20px"
+        android:background="@color/colorPrimary"
+        android:onClick="adicionar"
+        android:text="Cadastrar"
+        android:textColor="#FFF"
+
+        android:textSize="25dp" />
+    <Button
+        android:id="@+id/bt2"
+        android:layout_marginTop="20px"
+        android:layout_width="fill_parent"
+        android:layout_marginHorizontal="20px"
+        android:layout_height="wrap_content"
+        android:background="#A303A9F4"
+        android:onClick="listar"
+        android:text="Listar"
+        android:textColor="#FFF"
+
+        android:textSize="25dp" />
+    <Button
+        android:id="@+id/bt3"
+        android:layout_marginTop="20px"
+        android:layout_width="fill_parent"
+        android:layout_marginHorizontal="20px"
+        android:layout_height="wrap_content"
+        android:background="#9E9D24"
+        android:text="Sobre"
+        android:textColor="#FFF"
+        android:textSize="25dp" />
+
+
+
+</android.widget.LinearLayout>
